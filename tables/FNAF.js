@@ -1,14 +1,51 @@
 var bingoListFNAF;
-var q, w, e, r, t
+var fnafTiles;
 
 function FNAF() {
 
-    q = _.sample(['fnaf q 1','fnaf q 2','fnaf q 3','fnaf q 4','fnaf q 5'], 5);
-    w = _.sample(['fnaf w 1','fnaf w 2','fnaf w 3','fnaf w 4','fnaf w 5'], 5);
-    e = _.sample(['fnaf e 1','fnaf e 2','fnaf e 3','fnaf e 4','fnaf e 5'], 5);
-    r = _.sample(['fnaf r 1','fnaf r 2','fnaf r 3','fnaf r 4','fnaf r 5'], 5);
-    t = _.sample(['fnaf t 1','fnaf t 2','fnaf t 3','fnaf t 4','fnaf t 5'], 5);
+    fnafTiles = [
+        'fnaf 1',
+        'fnaf 2',
+        'fnaf 3',
+        'fnaf 4',
+        'fnaf 5',
+        'fnaf 6',
+        'fnaf 7',
+        'fnaf 8',
+        'fnaf 9',
+        'fnaf 10',
+        'fnaf 11',
+        'fnaf 12',
+        'fnaf 13',
+        'fnaf 14',
+        'fnaf 15',
+        'fnaf 16',
+        'fnaf 17',
+        'fnaf 18',
+        'fnaf 19',
+        'fnaf 20',
+        'fnaf 21',
+        'fnaf 22',
+        'fnaf 23',
+        'fnaf 24',
+        'fnaf 25',
+        'fnaf 26',
+        'fnaf 27',
+        'fnaf 28',
+        'fnaf 29',
+        'fnaf 30',
+        'fnaf 31',
+        'fnaf 32',
+        'fnaf 33',
+        'fnaf 34',
+        'fnaf 35',
+        'fnaf 36',
+        'fnaf 37',
+        'fnaf 38',
+        'fnaf 39',
+        'fnaf 40'
+    ];
 
-    bingoListFNAF = [...q, ...w, ...e, ...r, ...t];
-    console.log('bingoListFNAF = ' + bingoListFNAF);
+    bingoListFNAF = [..._.sample(fnafTiles, 25)];
+    console.log('bingoListFNAF loaded ' + bingoListFNAF.length  + ' tiles');
 }

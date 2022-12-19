@@ -103,7 +103,8 @@ var bingo = function (bingoList, size, type) {
 			bingoSelected = _.shuffle(bingoSelected.concat(bingoListJackbox));
 			break;
 		case "FNAF":
-			bingoSelected = _.shuffle(bingoSelected.concat(bingoListFNAF).concat(bingoListHorror));
+			var horrorSelected = _.sample(bingoListHorror, 10);
+			bingoSelected = _.shuffle(bingoSelected.concat(bingoListFNAF).concat(horrorSelected));
 			break;
 		case "Horror":
 			bingoSelected = _.shuffle(bingoSelected.concat(bingoListHorror));
