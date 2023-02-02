@@ -5,9 +5,9 @@ function Generic() {
 
     dingTiles = [
         '"Keep your thighs peeled"',
-        'g d 2',
-        'g d 3',
-        'g d 4',
+        'Vore',
+        'Game is idle for more than 30 seconds',
+        '"MODS!"',
         'g d 5',
         'g d 6',
         'g d 7',
@@ -27,10 +27,10 @@ function Generic() {
     ];
     chatTiles = [
         'A chatter is sacrificed',
-        'g c 2',
-        'g c 3',
-        'g c 4',
-        'g c 5',
+        'Daze is sacrificed',
+        'Joel',
+        '"LLLLLLLLLLLLLLL"',
+        '"wow wow wow wow wow wow"',
         'g c 6',
         'g c 7',
         'g c 8',
