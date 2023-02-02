@@ -32,7 +32,7 @@ function Generic() {
         '"LLLLLLLLLLLL"',
         '"wow wow wow wow wow wow"',
         'Wikidingo copypasta',
-        'g c 7',
+        'WV_Shep is drunk',
         'g c 8',
         'g c 9',
         'g c 10',
