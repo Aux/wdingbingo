@@ -6,11 +6,11 @@ function Generic() {
     dingTiles = [
         '"Keep your thighs peeled"',
         'Vore',
-        'Game is idle for more than 30 seconds',
+        'Game is idle for more than 60 seconds',
         '"MODS!"',
         'Believers win',
         'Doubters win',
-        'g d 7',
+        '"Is the game bugged?", it was not',
         'g d 8',
         'g d 9',
         'g d 10',
