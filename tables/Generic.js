@@ -60,6 +60,6 @@ function Generic() {
         '10000 bits redeem'
     ];
 
-    bingoListGeneric = [..._.sample(dingTiles, 15), ..._.sample(chatTiles, 15), ..._.sample(donationTiles, 3)];
+    bingoListGeneric = [..._.sample(dingTiles, 16), ..._.sample(chatTiles, 15), ..._.sample(donationTiles, 2)];
     console.log('bingoListGeneric loaded ' + bingoListGeneric.length  + ' tiles');
 }
