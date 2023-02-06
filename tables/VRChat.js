@@ -47,6 +47,6 @@ function VRChat() {
         'vrchat 40'
     ];
 
-    bingoListVRChat = [..._.sample(vrchatTiles, 25)];
+    bingoListVRChat = [..._.sample(vrchatTiles, 20)];
     console.log('bingoListVRChat loaded ' + bingoListVRChat.length  + ' tiles');
 }
