@@ -7,7 +7,6 @@ function VRChat() {
         '"Don\'t look at my butt"',
         'Homerun Contest 10k+',
         'Homerun Contest 20k+',
-        'vrchat 3',
         'vrchat 4',
         'vrchat 5',
         'vrchat 6',
@@ -47,6 +46,6 @@ function VRChat() {
         'vrchat 40'
     ];
 
-    bingoListVRChat = [..._.sample(vrchatTiles, 20)];
+    bingoListVRChat = [..._.sample(vrchatTiles, 15)];
     console.log('bingoListVRChat loaded ' + bingoListVRChat.length  + ' tiles');
 }
