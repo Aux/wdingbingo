@@ -38,7 +38,7 @@ function Generic() {
         'Cindercollie cameo',
         'Nibbles cameo',
         'LycanMike cameo',
-        'g c 13',
+        'Bananas in my face redeemed',
         'g c 14',
         'g c 15',
         'g c 16',
