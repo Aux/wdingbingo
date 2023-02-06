@@ -4,8 +4,9 @@ var vrchatTiles;
 function VRChat() {
 
     vrchatTiles = [
-        'vrchat 1',
-        'vrchat 2',
+        '"Don't look at my butt"',
+        'Homerun Contest 10k+',
+        'Homerun Contest 20k+',
         'vrchat 3',
         'vrchat 4',
         'vrchat 5',
