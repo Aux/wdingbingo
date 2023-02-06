@@ -15,7 +15,7 @@ function Generic() {
         'Raise your hand if...',
         '"Ok chat, last one", it was not',
         'high pitched "yaaay!"',
-        'g d 12',
+        'The 5 Rules',
         'g d 13',
         'g d 14',
         'g d 15',
