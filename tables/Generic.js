@@ -16,7 +16,7 @@ function Generic() {
         '"Ok chat, last one", it was not',
         'high pitched "yaaay!"',
         'The 5 Rules',
-        'g d 13',
+        'Actually plays Buff Doge',
         'g d 14',
         'g d 15',
         'g d 16',
