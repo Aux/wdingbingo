@@ -4,7 +4,7 @@ var vrchatTiles;
 function VRChat() {
 
     vrchatTiles = [
-        '"Don't look at my butt"',
+        '"Don\'t look at my butt"',
         'Homerun Contest 10k+',
         'Homerun Contest 20k+',
         'vrchat 3',
